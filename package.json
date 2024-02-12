@@ -1,7 +1,6 @@
 {
   "name": "@demidovant/ajs-platforms",
   "version": "1.0.0",
-  "description": "",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -19,5 +18,15 @@
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demidovant/ajs-platforms.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Demidovant/ajs-platforms/issues"
+  },
+  "homepage": "https://github.com/Demidovant/ajs-platforms#readme",
+  "description": ""
 }
